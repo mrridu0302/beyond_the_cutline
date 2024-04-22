@@ -1,6 +1,7 @@
 Sentiment analysis of social media captions.
 A simple AI implementation using logistic regression. Coded in python. 
-#Output
+
+# Output
 A number between 0 and 1 telling the inclination towards positive negative or neutral sentiment.
 <0.4 means negative
 0.4-0.6 means neutral
